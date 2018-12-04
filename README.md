@@ -1,4 +1,3 @@
-# The app
 
 ## Privacy policy
 1. Users agree that personal privacy information refers to the information that can make personal identification to users or involves personal communication, including the following information: mailbox. Non-personal privacy information refers to some general information that is clearly and objectively reflected outside the scope of the basic record information and all other personal privacy information on the server side of the company and the above privacy information that the user agrees to disclose.
